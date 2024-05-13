@@ -11,3 +11,9 @@ const products = {
         additionalDescription: null
     }
 };
+
+console.log(products.productId);
+console.log(products.productName);
+console.log(products.quantityInStock);
+console.log(products.unitPrice);
+console.log(products.unitPriceproductDescription);
